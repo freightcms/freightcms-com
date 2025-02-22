@@ -30,7 +30,6 @@ github_username:  freightcms
 
 # Build settings
 theme: just-the-docs
-layouts_dir: _layouts
 source: _docs 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
