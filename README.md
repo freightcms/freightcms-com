@@ -30,6 +30,8 @@ rbenv install 3.4.2 && source ~/.zshrc
 type rbenv
 ```
 
+**should output something like** 
+
 > rbenv is a shell function from /Users/squishedfox/.zshrc
 
 5. Set your global ruby environment
